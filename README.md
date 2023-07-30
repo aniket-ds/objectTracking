@@ -1,6 +1,7 @@
 # MOT Algorithm using Deep SORT and YOLOv3
 
-![output](https://github.com/aniket-ds/objectDetection-deep_sort/assets/73283093/5eda92b5-1691-4e10-bc47-a705dc152f0d)
+
+![output](https://github.com/aniket-ds/objectTracking/assets/73283093/7b4adfcb-7680-4bfb-9516-ca73643dddf5)
 
 
 This repository contains an implementation of a Multiple Object Tracking (MOT) algorithm using Deep SORT (Simple Online and Realtime Tracking) in combination with YOLOv3 (You Only Look Once version 3) object detection.
